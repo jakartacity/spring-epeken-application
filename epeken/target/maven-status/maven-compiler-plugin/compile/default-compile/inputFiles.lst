@@ -1,0 +1,7 @@
+/home/imam/eclipse-workspace/epeken/src/main/java/com/epeken/exceptions/LicenseActivateException.java
+/home/imam/eclipse-workspace/epeken/src/main/java/com/epeken/repository/LicRegDomainTblRepository.java
+/home/imam/eclipse-workspace/epeken/src/main/java/com/epeken/model/LicRegDomainTbl.java
+/home/imam/eclipse-workspace/epeken/src/main/java/com/epeken/SpringEpekenApplication.java
+/home/imam/eclipse-workspace/epeken/src/main/java/com/epeken/model/LicKeyTbl.java
+/home/imam/eclipse-workspace/epeken/src/main/java/com/epeken/repository/LicKeyTblRepository.java
+/home/imam/eclipse-workspace/epeken/src/main/java/com/epeken/controller/LicKeyTblController.java
